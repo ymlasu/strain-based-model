@@ -1,0 +1,3 @@
+The model is based on strain data from the experiment to do the prediction.
+The file "mafa304sin.m" can directly predict the fatigue life. The result will shows in 9th column in parameter: Fatipre 
+The detail result comparison can be found in the proposed paper.
